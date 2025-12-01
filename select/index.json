@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "doubt",
+  "base_artist": "R+...",
+  "createdAt": "2025-12-01T06:51:47.698355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doubt Me Now",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/01_Doubt_Me_Now_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Doubt About It",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/02_No_Doubt_About_It_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Doubt About It (LP Version)",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/03_No_Doubt_About_It_(LP_Version)_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Without a Doubt",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/04_Without_a_Doubt_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Without A Doubt",
+      "artist": "The Roots feat. Lady B",
+      "has_synced": false,
+      "path": "select/05_Without_A_Doubt_The_Roots_feat._Lady_B.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Without A Doubt",
+      "artist": "The Roots, Lady B",
+      "has_synced": false,
+      "path": "select/06_Without_A_Doubt_The_Roots,_Lady_B.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "absolute in doubt",
+      "artist": "Lil Peep feat. Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/07_absolute_in_doubt_Lil_Peep_feat._Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Absolute In Doubt (feat. Wicca Phase Springs Eternal)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/08_Absolute_In_Doubt_(feat._Wicca_Phase_Springs_Eternal)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Year Of Doubt",
+      "artist": "Maxïmo Park",
+      "has_synced": true,
+      "path": "select/09_A_Year_Of_Doubt_Maxïmo_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Break.Doubt",
+      "artist": "Moby & The Void Pacific Choir",
+      "has_synced": false,
+      "path": "select/10_Break.Doubt_Moby_&_The_Void_Pacific_Choir.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Darkness and Doubt",
+      "artist": "The Mekons",
+      "has_synced": false,
+      "path": "select/11_Darkness_and_Doubt_The_Mekons.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "There's No Doubt",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/12_There's_No_Doubt_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Self Doubt (Leaving the Club Early)",
+      "artist": "Loraine James",
+      "has_synced": false,
+      "path": "select/13_Self_Doubt_(Leaving_the_Club_Early)_Loraine_James.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Doubt If It Does to You",
+      "artist": "Stacey Q",
+      "has_synced": false,
+      "path": "select/14_I_Doubt_If_It_Does_to_You_Stacey_Q.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Doubt the World",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_01_Doubt_the_World_栗林_みな実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Doubt & Trust ~ダウト & トラスト~",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_02_Doubt_&_Trust_~ダウト_&_トラスト~_栗林_みな実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "DOUBT",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_03_DOUBT_栗林_みな実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Doubt '97 [Mixed LEMONed Jelly Mix]",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_04_Doubt_'97_[Mixed_LEMONed_Jelly_Mix]_栗林_みな実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Doubt & Trust ～ダウト&トラスト～",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_05_Doubt_&_Trust_~ダウト&トラスト~_栗林_みな実.txt"
+    }
+  ]
+}
